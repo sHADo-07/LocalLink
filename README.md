@@ -56,7 +56,7 @@ The repository will be organized as development progresses.
 
 **Status:** Planning and initial setup
 
-This project is being developed as part of the Advanced Programming with Web Technology course.
+This project is being developed as part of the Advanced Programming in Web Technology course.
 
 ## Team
 
